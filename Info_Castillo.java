@@ -9,17 +9,12 @@ public class Info_Castillo {
 	    private static String LastName,FirstName,MiddleName,Section = null,Gradelvl;
 	    private static int Birth, year = 2022,Birth2,Birth3,grade1 = 0,grade2 = 0,grade3 = 0,grade4 = 0;
 	    private static int Age,dob;
-	   
-		//static int year = Period.between(hhhDate,today).getYears();
-		
 		
 	public static void Main(){
 		System.out.print("WELCOME TO MY FINAL PROJ THIS SEMESTER\nCODER:Riceo G. Castillo");
 		System.out.println(" ");
 	}
 	public static void NAMES(){
-	
-		
 		
 		System.out.println(" ");
 		System.out.print("DO INPUT YOUR LASTNAME:");
@@ -31,7 +26,6 @@ public class Info_Castillo {
 		System.out.print("DO INPUT YOUR MIDDLENAME:");
 		MiddleName = castillo_Scan.next();
 	}
-
 
 	public static void AGE (){	
 	    
@@ -64,11 +58,11 @@ public class Info_Castillo {
 		grade4 = castillo_Scan.nextInt();
 	}
 	public static void OUTPUTS(){
-		//float Age = Birth3-year;
+		
 		float DataOne = (grade1 + grade2 + grade3 + grade4);
 		float DataTwo = DataOne /4;
 		 String initials = MiddleName.substring(0,1);
-		//float Gradelvl =+ Gradelvl;
+	
 		System.out.println(" ");
 		System.out.println("=======");
 		System.out.println("OUTPUT:");
