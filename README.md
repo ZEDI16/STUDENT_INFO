@@ -1,5 +1,5 @@
 # STUDENT_INFO
-![alt text](https://github.com/ZEDI16/Resources/blob/main/Picsart_23-03-06_16-35-00-737.jpg?raw=true)
+![BANNER](https://github.com/ZEDI16/Resources/blob/main/Picsart_23-03-06_16-35-00-737.jpg?raw=true)
 <h6>Welcome to our GitHub repository for a basic Java project designed for senior high school students!</h6>
 
 ## How it works.
