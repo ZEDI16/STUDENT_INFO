@@ -10,7 +10,7 @@ public class Info_Castillo {
 	        System.out.println("\t\t\t\t+-----------------------------+\t\t\t\t");
 			System.out.println("\t\t\t\t+                             +\t\t\t\t");
 			System.out.println("\t\t\t\t+ WELCOME TO MY FINAL PROJECT +\t\t\t\t");
-			System.out.println("\t\t\t\t+ THIS SEMESTER.              +\t\t\t\t");
+			System.out.println("\t\t\t\t+ THIS QUARTER.               +\t\t\t\t");
 			System.out.println("\t\t\t\t+                             +\t\t\t\t");
 			System.out.println("\t\t\t\t+ CODER: RICEO G> CASTILLO    +\t\t\t\t");
 			System.out.println("\t\t\t\t+-----------------------------+\t\t\t\t");
